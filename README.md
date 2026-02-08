@@ -155,28 +155,26 @@ Naming convention: `{source_prefix}_ch{number}_{topic_slug}.md`
 
 #### Penman — Financial Statement Analysis and Security Valuation (18 chapters)
 
-*Status: ch10-14 summaries uploaded; ch3-9 and ch15-20 pending extraction.*
-
 | File | Topic | Valuation Relevance |
 |------|-------|-------------------|
-| `penman_fsa_ch3_how_financial_statements_are_used_in_valuation.md` ⏳ | Connecting financials to valuation models | Foundation — why FSA matters for valuation |
-| `penman_fsa_ch4_cash_vs_accrual_accounting_and_dcf.md` ⏳ | Cash vs. accrual, why DCF alone is insufficient | Challenging cash-flow-only valuation |
-| `penman_fsa_ch5_accrual_accounting_pricing_book_values.md` ⏳ | Residual income, pricing book value | Book value multiples theory |
-| `penman_fsa_ch6_accrual_accounting_pricing_earnings.md` ⏳ | Residual earnings model, pricing P/E | Earnings multiples theory |
-| `penman_fsa_ch7_valuation_and_active_investing.md` ⏳ | Active investing framework, market efficiency | Applying valuation to investment decisions |
-| `penman_fsa_ch8_viewing_business_through_financial_statements.md` ⏳ | Reformulating statements: operating vs. financing | **Core** — separating operations from capital structure |
-| `penman_fsa_ch9_analysis_statement_of_shareholders_equity.md` ⏳ | Equity components, dirty surplus, comprehensive income | Equity bridge, dilution analysis |
-| `penman_fsa_ch10_analysis_balance_sheet_income_statement.md` ✅ | Balance sheet and income statement analysis | **Core** — normalizing financials for comps |
-| `penman_fsa_ch11_analysis_cash_flow_statement.md` ✅ | Cash flow analysis, free cash flow derivation | FCFF/FCFE calculation from reported statements |
-| `penman_fsa_ch12_analysis_profitability.md` ✅ | RNOA, ROCE, DuPont decomposition, leverage effects | **Core** — what drives multiples across peer groups |
-| `penman_fsa_ch13_growth_and_sustainable_earnings.md` ✅ | Sustainable vs. transitory earnings, growth decomposition | Forecasting normalized earnings for comps |
-| `penman_fsa_ch14_value_of_operations_and_enterprise_multiples.md` ✅ | Enterprise P/B, enterprise P/E, RNOA-driven multiples | **Core** — connecting fundamentals to EV multiples |
-| `penman_fsa_ch15_anchoring_on_financial_statements.md` ⏳ | Simple forecasting from current financials | Quick valuation cross-checks |
-| `penman_fsa_ch16_full_information_forecasting_and_strategy.md` ⏳ | Full pro forma forecasting, business strategy analysis | Detailed DCF projection |
-| `penman_fsa_ch17_creating_accounting_and_economic_value.md` ⏳ | Value creation vs. value recording, accounting arbitrage | Identifying real vs. artificial earnings growth |
-| `penman_fsa_ch18_quality_of_financial_statements.md` ⏳ | Earnings quality, red flags, accounting manipulation | **Critical** — screening comps for accounting quality |
-| `penman_fsa_ch19_analysis_of_equity_risk_and_return.md` ⏳ | Fundamental risk analysis, growth-risk trade-off | Risk-adjusting multiples for peer comparison |
-| `penman_fsa_ch20_analysis_of_credit_risk_and_return.md` ⏳ | Credit analysis, default prediction, recovery | **Restructuring** — creditor-side analysis |
+| `penman_fsa_ch3_how_financial_statements_are_used_in_valuation.md` | Connecting financials to valuation models | Foundation — why FSA matters for valuation |
+| `penman_fsa_ch4_cash_vs_accrual_accounting_and_dcf.md` | Cash vs. accrual, why DCF alone is insufficient | Challenging cash-flow-only valuation |
+| `penman_fsa_ch5_accrual_accounting_pricing_book_values.md` | Residual income, pricing book value | Book value multiples theory |
+| `penman_fsa_ch6_accrual_accounting_pricing_earnings.md` | Residual earnings model, pricing P/E | Earnings multiples theory |
+| `penman_fsa_ch7_valuation_and_active_investing.md` | Active investing framework, market efficiency | Applying valuation to investment decisions |
+| `penman_fsa_ch8_viewing_business_through_financial_statements.md` | Reformulating statements: operating vs. financing | **Core** — separating operations from capital structure |
+| `penman_fsa_ch9_analysis_statement_of_shareholders_equity.md` | Equity components, dirty surplus, comprehensive income | Equity bridge, dilution analysis |
+| `penman_fsa_ch10_analysis_balance_sheet_income_statement.md` | Balance sheet and income statement analysis | **Core** — normalizing financials for comps |
+| `penman_fsa_ch11_analysis_cash_flow_statement.md` | Cash flow analysis, free cash flow derivation | FCFF/FCFE calculation from reported statements |
+| `penman_fsa_ch12_analysis_profitability.md` | RNOA, ROCE, DuPont decomposition, leverage effects | **Core** — what drives multiples across peer groups |
+| `penman_fsa_ch13_growth_and_sustainable_earnings.md` | Sustainable vs. transitory earnings, growth decomposition | Forecasting normalized earnings for comps |
+| `penman_fsa_ch14_value_of_operations_and_enterprise_multiples.md` | Enterprise P/B, enterprise P/E, RNOA-driven multiples | **Core** — connecting fundamentals to EV multiples |
+| `penman_fsa_ch15_anchoring_on_financial_statements.md` | Simple forecasting from current financials | Quick valuation cross-checks |
+| `penman_fsa_ch16_full_information_forecasting_and_strategy.md` | Full pro forma forecasting, business strategy analysis | Detailed DCF projection |
+| `penman_fsa_ch17_creating_accounting_and_economic_value.md` | Value creation vs. value recording, accounting arbitrage | Identifying real vs. artificial earnings growth |
+| `penman_fsa_ch18_quality_of_financial_statements.md` | Earnings quality, red flags, accounting manipulation | **Critical** — screening comps for accounting quality |
+| `penman_fsa_ch19_analysis_of_equity_risk_and_return.md` | Fundamental risk analysis, growth-risk trade-off | Risk-adjusting multiples for peer comparison |
+| `penman_fsa_ch20_analysis_of_credit_risk_and_return.md` | Credit analysis, default prediction, recovery | **Restructuring** — creditor-side analysis |
 
 ---
 
