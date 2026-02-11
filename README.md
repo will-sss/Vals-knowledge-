@@ -297,11 +297,5 @@ Naming convention: `{source_prefix}_ch{number}_{topic_slug}.md`
 
 ---
 
-## Pending Work
-
-- **Penman ch3-9, ch15-20** — 13 chapters need markdown extraction (⏳ in table above)
-- **Penman PDF** — upload to repo
-
----
 
 *Last updated: February 2026*
